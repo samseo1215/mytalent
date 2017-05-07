@@ -184,10 +184,16 @@
 	},
 	"expanded_folders":
 	[
-		"/home/sangwon/sangwons/projectone/mytalent"
 	],
 	"file_history":
 	[
+		"/home/sangwon/sangwons/projectone/mytalent/mytalent/settings.py",
+		"/home/sangwon/sangwons/projectone/mytalent/templates/base.html",
+		"/home/sangwon/sangwons/projectone/mytalent/mytalent/urls.py",
+		"/home/sangwon/sangwons/projectone/mytalent/post/views.py",
+		"/home/sangwon/sangwons/projectone/mytalent/post/models.py",
+		"/home/sangwon/sangwons/projectone/mytalent/post/apps.py",
+		"/home/sangwon/sangwons/projectone/mytalent/post/urls.py",
 		"/home/sangwon/todo",
 		"/home/sangwon/develop_notes",
 		"/home/sangwon/test.py",
@@ -245,6 +251,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"posts",
+			"post",
 			"selectMarket",
 			"null",
 			"id",
@@ -320,7 +328,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
