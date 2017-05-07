@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"temp_category_cleaned"
+			],
+			[
+				"brand",
+				"brand_linstg"
+			],
+			[
+				"k",
+				"_keys_info"
+			],
+			[
+				"think",
+				"thinknum_data"
+			],
+			[
+				"twitter",
+				"twitter_list"
+			],
+			[
+				"api",
+				"api_response"
+			],
+			[
+				"_",
+				"_app_secret"
+			],
+			[
+				"_app",
+				"_app_id"
+			],
+			[
+				"id",
+				"identity_request"
+			],
+			[
+				"graph",
+				"graph_id"
+			],
+			[
+				"split",
+				"split_chunks"
+			],
+			[
+				"url",
+				"urlparse"
+			],
+			[
+				"gra",
+				"graph_id"
+			],
+			[
+				"data",
+				"data_generator"
+			],
+			[
+				"twi",
+				"twitter_name"
+			],
+			[
+				"conv",
+				"convert_name_to_id"
+			],
+			[
+				"Face",
+				"FacebookIdMappingConverter"
+			],
+			[
+				"yaml",
+				"yaml_loader"
+			],
+			[
+				"s",
+				"startswith"
+			],
+			[
+				"path",
+				"path_split"
+			],
+			[
+				"for",
+				"formatted_response"
+			],
+			[
+				"json",
+				"json_formatted_data"
+			],
+			[
+				"compa",
+				"company_id"
+			],
+			[
+				"coma",
+				"company_slug"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"reco",
+				"records"
+			],
+			[
+				"rec",
+				"records"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"url2",
+				"urllib2"
+			],
+			[
+				"mock",
+				"mockSocialMedia"
+			],
+			[
+				"test",
+				"testSocialMedia"
+			],
+			[
+				"dict",
+				"dictionary"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sangwon/sangwons/projectone/mytalent"
+	],
+	"file_history":
+	[
+		"/home/sangwon/todo",
+		"/home/sangwon/develop_notes",
+		"/home/sangwon/test.py",
+		"/home/sangwon/training.json",
+		"/home/sangwon/training_json.py",
+		"/home/sangwon/data.json",
+		"/home/sangwon/dev_projects/thinknum_data/brand_product_category_training.json",
+		"/home/sangwon/dev_projects/thinknum_data/brand_listing_training.json",
+		"/home/sangwon/dedupe-examples/pgsql_big_dedupe_example/pgsql_big_dedupe_example.py",
+		"/home/sangwon/test2.py",
+		"/home/sangwon/test3.py",
+		"/home/sangwon/dedupe-examples/pgsql_big_dedupe_example/pgsql_big_dedupe_example_init_db.py",
+		"/home/sangwon/test1.py",
+		"/home/sangwon/issue",
+		"/home/sangwon/db",
+		"/home/sangwon/test_converter",
+		"/home/sangwon/extract_attribute.py",
+		"/home/sangwon/extract.yaml",
+		"/home/sangwon/extract2.yaml",
+		"/home/sangwon/sample.warc.gz.extract2.yaml",
+		"/home/sangwon/sample.warc.gz.extract2.yaml2",
+		"/home/sangwon/elinkedin.py",
+		"/home/sangwon/etwitter.py",
+		"/home/sangwon/efacebook.py",
+		"/home/sangwon/test_social_media.py",
+		"/home/sangwon/test5.py",
+		"/home/sangwon/test4.py",
+		"/home/sangwon/lib_social_media.py",
+		"/home/sangwon/converter",
+		"/home/sangwon/pgadmin.log",
+		"/home/sangwon/mymodule.pyc",
+		"/home/sangwon/mymodule.py",
+		"/home/sangwon/github",
+		"/home/sangwon/pycharm-community-2016.3.2.tar.gz",
+		"/home/sangwon/test2.pyc",
+		"/home/sangwon/test1.pyc",
+		"/home/sangwon/java_error_in_PYCHARM_2186.log",
+		"/home/sangwon/examples.desktop",
+		"/usr/local/lib/python2.7/dist-packages/warc/warc.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"selectMarket",
+			"null",
+			"id",
+			"null",
+			"location",
+			"com",
+			"pages/",
+			"search",
+			"\n ht",
+			"','",
+			"htt",
+			"','",
+			"','\n ",
+			"\n ",
+			" http",
+			" ",
+			"\n ",
+			"\n",
+			",",
+			"\n\t",
+			"\t\n",
+			"microsoft",
+			"soup",
+			"API_KEY",
+			"linkedin",
+			"samsung",
+			"twitter",
+			"json",
+			"instagram",
+			"mock",
+			"False",
+			"website",
+			"in self",
+			"length",
+			"current_payload",
+			"read()",
+			"payload",
+			"warc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"''",
+			"ht",
+			"\",\"",
+			"\"htt",
+			"\",\"",
+			"",
+			"\",\"http",
+			"','http",
+			"','"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 186.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mytalent.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 32.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
